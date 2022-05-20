@@ -1,0 +1,6 @@
+[submodule "DspCore"]
+	path = DspCore
+	url = https://github.com/sleepyCatDev/DspCore
+[submodule "UICore"]
+	path = UICore
+	url = https://github.com/sleepyCatDev/UICore
